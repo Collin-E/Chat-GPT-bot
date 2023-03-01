@@ -3,6 +3,7 @@
 This is a discord bot that can be added to discord servers. 
 
 Sample output:
+
 ![image](https://user-images.githubusercontent.com/115193664/222065678-22813cfd-dbad-484f-9b85-38ac319bc960.png)
 ![image](https://user-images.githubusercontent.com/115193664/222065703-b3486bf4-f7b0-4c9b-af95-7ceccacd89a9.png)
 ![image](https://user-images.githubusercontent.com/115193664/222065731-64f10b46-7152-4c34-a315-145b50edf724.png)
