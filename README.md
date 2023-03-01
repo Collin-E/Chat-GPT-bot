@@ -1,6 +1,7 @@
 # Chat-GPT-bot
 
-This is a discord bot that can be added to discord servers. 
+This is a discord bot that can be added to discord servers. The bot fowards user's discord messages to Open AI's API, and then displays the response to the server.
+This bot can server a number of purposes, such as, definitions, coding, text suggestions, google searches, etc.
 
 Sample output:
 
